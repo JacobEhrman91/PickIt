@@ -29,6 +29,8 @@ PickIt will provide users with a solution to indecision and give them a means to
 #### Solution Screen
 ![Solution](/Requirements/Solution.JPG)
 
+[Table of Contents](https://github.com/JacobEhrman91/PickIt#table-of-contents)
+
 ## Requirements and Tests
 
 #### USER STORIES
@@ -49,6 +51,8 @@ PickIt will provide users with a solution to indecision and give them a means to
  
 #### USE-CASE DIAGRAM 
 ![ERD](/Requirements/uml.png)
+
+[Table of Contents](https://github.com/JacobEhrman91/PickIt#table-of-contents)
 
 #### REQUIREMENTS
 1. The system shall provide the user a way to log into the application.
@@ -127,6 +131,8 @@ PickIt will provide users with a solution to indecision and give them a means to
   - 10.1.3 The system shall provide the option for the user to select each event for more detail
   - 10.1.4 The system shall log movies watched into users profile
 
+[Table of Contents](https://github.com/JacobEhrman91/PickIt#table-of-contents)
+
 
 
 
@@ -199,6 +205,7 @@ PickIt will provide users with a solution to indecision and give them a means to
 |10.1.3|The system shall provide the option for the user to select each event for more detail|demonstration||
 |10.1.4|The system shall log movies watched into users profile|demonstration||
 
+[Table of Contents](https://github.com/JacobEhrman91/PickIt#table-of-contents)
 
 #### Test
 |testID|Req|Test proc|current|time|
