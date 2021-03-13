@@ -223,3 +223,46 @@ PickIt will provide users with a solution to indecision and give them a means to
 |11|8.1.1,8.1.2,8.1.6|Upon completion of event cysple visual display of common result, picture, and summary|not tested| |
 |12|9.1.4|Upon user deleting event push notification|not tested| |
 |13|10.1.1|User repuest history  |not tested| |
+
+[Table of Contents](https://github.com/JacobEhrman91/PickIt#table-of-contents)
+
+## Prototype
+
+#### Log In
+![Log In](/Prototype/Login.png)
+
+This will be where users have the option to provide log in or create an account in order to access application.
+
+#### Register Account
+![Register Account](/Prototype/Register.png)
+
+This will be where users have the option to create an account and enter personal information required.
+
+#### Home Page
+![Home Page](/Prototype/Home.png)
+
+This will be where users have the option to provide log in or create an account in order to access application.
+
+#### Friends Page
+![Friends](/Prototype/Friends.png)
+
+This will be where users have the option to provide log in or create an account in order to access application.
+
+#### Create Event Page
+![Event1](/Prototype/Event1.png)
+
+This will be where users have the option to provide log in or create an account in order to access application.
+
+#### Voting Page
+![Event2](/Prototype/Event2.png)
+
+This will be where users have the option to provide log in or create an account in order to access application.
+
+#### Solution Page
+![Solution](/Prototype/Solution.png)
+
+This will be where users have the option to provide log in or create an account in order to access application.
+
+
+
+
