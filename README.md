@@ -241,17 +241,17 @@ This will be where users have the option to create an account and enter personal
 #### Home Page
 ![Home Page](/Prototype/Home.png)
 
-This will be the home page after you log in. You will hace acess to event history, scheduled events, friends list, profile setting and app settings.
+This will be the home page after you log in. You will have access to event history, scheduled events, friends list, profile setting and app settings via buttons.
 
 #### Friends Page
 ![Friends](/Prototype/Friends.png)
 
-This will be where users friends page where you can view you current friend and either invite theam or message them. Also has plus button to be able to look up and add friends
+This will be where users friends page where you can view you current friends and either invite them or message them. Also has "+" button to be able to look up and add friends.
 
 #### Create Event Page
 ![Event1](/Prototype/Event1.png)
 
-This will be where users can create an event where there are dropped down boxes for the type of event, Genere, date/time and also a button to invite friends.
+This will be where users can create an event where there are dropped down boxes for the type of event, Genere, date/time. Also a button to invite friends and a check box for age restricitons.
 
 #### Voting Page
 ![Event2](/Prototype/Event2.png)
