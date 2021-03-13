@@ -256,7 +256,7 @@ This will be where users can create an event where there are dropped down boxes 
 #### Voting Page
 ![Event2](/Prototype/Event2.png)
 
-This will be where users vote on an event they attend. There will be a pic of the movie with a summary box below giving detail. There will be thumbs up and down buttons for user to vote. Also an event detail button that provides detail such as time, location and how much longer to vote.
+This will be where users vote on an event they attend. There will be a pic of the movie with a summary box below giving detail. There will be thumbs up and down buttons for user to vote. Also an event detail button that provides detail such as time, location and how much longer to vote. After user has voted the next movie to vote on appears.
 
 #### Solution Page
 ![Solution](/Prototype/Solution.png)
