@@ -31,7 +31,7 @@ PickIt will provide users with a solution to indecision and give them a means to
 
 [Table of Contents](https://github.com/JacobEhrman91/PickIt#table-of-contents)
 
-## Requirements and Tests
+## Requirements and Tests 
 
 #### USER STORIES
 * As a parent, I need an application to help my children compromise on a movie, in order to keep them from fighting and reduce my stress.
