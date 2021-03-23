@@ -1,5 +1,5 @@
  ## Table of Contents 
- 1. What is PickIt
+ 1. [What is PickIt](https://github.com/JacobEhrman91/PickIt#what-is-pickit)
  2. [ERD](https://github.com/JacobEhrman91/PickIt/blob/main/README.md#erd) 
  3. Wireframe
  4. Requirements and Tests
