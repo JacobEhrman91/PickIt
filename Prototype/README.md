@@ -35,3 +35,5 @@ This will be where users vote on an event they attend. There will be a pic of th
 
 This will be where users have the option to see participants, accept, or decline via buttons
 
+[Table of Contents](https://github.com/JacobEhrman91/PickIt#table-of-contents)
+
