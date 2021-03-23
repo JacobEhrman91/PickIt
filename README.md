@@ -3,6 +3,7 @@
  2. [ERD](https://github.com/JacobEhrman91/PickIt/blob/main/README.md#erd) 
  3. [Wireframe](https://github.com/JacobEhrman91/PickIt/blob/main/README.md#wireframe)
  4. [Requirements and Tests](https://github.com/JacobEhrman91/PickIt/blob/main/README.md#requirements-and-tests)
+ 5. [Prototype](https://github.com/JacobEhrman91/PickIt/tree/main/Prototype#prototype)
 
 
 
