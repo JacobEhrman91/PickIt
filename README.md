@@ -12,7 +12,7 @@ PickIt will provide users with a solution to indecision and give them a means to
 
 [Table of Contents](https://github.com/JacobEhrman91/PickIt#table-of-contents)
 
-## ERD
+## ERD (Draft March 2021)
 ![ERD](/Requirements/ERD.png)
 
 [Table of Contents](https://github.com/JacobEhrman91/PickIt#table-of-contents)
