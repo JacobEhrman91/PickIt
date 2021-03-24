@@ -80,4 +80,3 @@ insert into Restaurant values (3, 3, 'Polarised', '1 2nd Center', 0, '$18.40', '
 insert into Restaurant values (4, 4, 'radical', '0 Westport Street', 0, '$23.17', 'Ameliorated');
 insert into Restaurant values (5, 5, 'functionalities', '58 Northport Terrace', 1, '$20.99', 'discrete');
 
-[Table of Contents](https://github.com/JacobEhrman91/PickIt#table-of-contents)
