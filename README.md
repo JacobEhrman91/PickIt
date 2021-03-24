@@ -18,6 +18,8 @@ PickIt will provide users with a solution to indecision and give them a means to
 
 [Table of Contents](https://github.com/JacobEhrman91/PickIt#table-of-contents)
 
+## [Database](https://github.com/JacobEhrman91/PickIt/blob/main/Database%20SQL) 
+
 ## WireFrame
 
 #### Login Screen
