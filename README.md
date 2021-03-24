@@ -1,5 +1,5 @@
  ## Table of Contents 
- 1. [What is PickIt](https://github.com/JacobEhrman91/PickIt#what-is-pickit)
+ 1. [About PickIt](https://github.com/JacobEhrman91/PickIt#what-is-pickit)
  2. [ERD](https://github.com/JacobEhrman91/PickIt/blob/main/README.md#erd)
  3. [Database](https://github.com/JacobEhrman91/PickIt/blob/main/Database%20SQL) 
  4. [Wireframe](https://github.com/JacobEhrman91/PickIt/blob/main/README.md#wireframe)
@@ -8,7 +8,7 @@
 
 
 
-## What is PickIt?
+## About PickIt?
 PickIt will provide users with a solution to indecision and give them a means to find common ground. In a similar model to the popular “Tinder App”, users will swipe left or right to express their preferences for activities with one another.
 
 [Table of Contents](https://github.com/JacobEhrman91/PickIt#table-of-contents)
