@@ -1,9 +1,10 @@
  ## Table of Contents 
  1. [What is PickIt](https://github.com/JacobEhrman91/PickIt#what-is-pickit)
- 2. [ERD](https://github.com/JacobEhrman91/PickIt/blob/main/README.md#erd) 
- 3. [Wireframe](https://github.com/JacobEhrman91/PickIt/blob/main/README.md#wireframe)
- 4. [Requirements and Tests](https://github.com/JacobEhrman91/PickIt/blob/main/README.md#requirements-and-tests)
- 5. [Prototype](https://github.com/JacobEhrman91/PickIt/tree/main/Prototype#prototype)
+ 2. [ERD](https://github.com/JacobEhrman91/PickIt/blob/main/README.md#erd)
+ 3. [Database](https://github.com/JacobEhrman91/PickIt/blob/main/Database%20SQL) 
+ 4. [Wireframe](https://github.com/JacobEhrman91/PickIt/blob/main/README.md#wireframe)
+ 5. [Requirements and Tests](https://github.com/JacobEhrman91/PickIt/blob/main/README.md#requirements-and-tests)
+ 6. [Prototype](https://github.com/JacobEhrman91/PickIt/tree/main/Prototype#prototype)
 
 
 
