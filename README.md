@@ -8,7 +8,7 @@
 
 
 
-## About PickIt?
+## About PickIt
 PickIt will provide users with a solution to indecision and give them a means to find common ground. In a similar model to the popular “Tinder App”, users will swipe left or right to express their preferences for activities with one another.
 
 [Table of Contents](https://github.com/JacobEhrman91/PickIt#table-of-contents)
